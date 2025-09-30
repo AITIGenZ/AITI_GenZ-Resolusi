@@ -1,2 +1,4 @@
 # AITI_GenZ-Resolusi
-Rancangan resolusi untuk 1 tahun ke depan AITI GenZ
+- Konsisten upload konten yt 1x sehari
+- Membuat website portofolio pribadi
+- Jualan produk digital
