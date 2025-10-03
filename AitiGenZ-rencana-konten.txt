@@ -6,4 +6,5 @@
   1.belajar framework php
     a.laragon
   2.pahami alur codingan javascript
+    a.angular
 - cara melobby manusia dalam berperang
