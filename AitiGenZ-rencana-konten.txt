@@ -1,5 +1,7 @@
 #Rencana konten
 - membuat tutorial menggunakan VS code
+  1.cara installasi
+  2.fitur yg perlu di ketahui
 - belajar bahasa pemograman PHP dasar
   1.belajar framework php
   2.pahami alur codingan javascript
