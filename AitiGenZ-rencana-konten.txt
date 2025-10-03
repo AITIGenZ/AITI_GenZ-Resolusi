@@ -1,0 +1,4 @@
+#Rencana konten
+- membuat tutorial menggunakan VS code
+- belajar bahasa pemograman PHP dasar
+- cara melobby manusia dalam berperang
