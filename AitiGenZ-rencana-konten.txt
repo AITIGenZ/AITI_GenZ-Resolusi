@@ -1,4 +1,6 @@
 #Rencana konten
 - membuat tutorial menggunakan VS code
 - belajar bahasa pemograman PHP dasar
+  1.belajar framework php
+  2.pahami alur codingan javascript
 - cara melobby manusia dalam berperang
