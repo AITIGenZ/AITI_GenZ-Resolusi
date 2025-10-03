@@ -4,5 +4,7 @@
   2.fitur yg perlu di ketahui
 - belajar bahasa pemograman PHP dasar
   1.belajar framework php
+    a.laravel
   2.pahami alur codingan javascript
 - cara melobby manusia dalam berperang
+-python
